@@ -1,0 +1,10 @@
+newgame
+loadlevel teszt123.txt
+listrobots
+listfields
+listtraps
+changedirection 0 3
+step
+listrobots
+listfields
+listtraps

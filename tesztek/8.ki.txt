@@ -1,0 +1,11 @@
+loadlevel teszt8_palya.txt SUCCEED 
+robotid: 0 fieldid: 0 v: 2 glue: 2 oil: 2 oiledstate: false
+field: 0 fieldtype: Racetrack trap: none
+field: 1 fieldtype: Racetrack trap: none
+field: 2 fieldtype: Racetrack trap: oil
+field: 3 fieldtype: Racetrack trap: none
+field: 2 fieldtype: Racetrack trap: oil 100
+time: 4
+robotid: 0 fieldid: 2 v: 2 glue: 2 oil: 2 oiledstate: true
+time: 3
+robotid: 0 fieldid: 0 v: 2 glue: 2 oil: 2 oiledstate: true

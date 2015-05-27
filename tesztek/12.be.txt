@@ -1,0 +1,7 @@
+newgame
+loadlevel teszt12_palya.txt
+changedirection 0 0
+changedirection 1 0
+listrobots
+step
+listrobots

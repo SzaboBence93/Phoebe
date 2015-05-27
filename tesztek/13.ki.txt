@@ -1,0 +1,11 @@
+loadlevel teszt7.txt SUCCEED 
+robotid: 0 fieldid: 0 v: 2 glue: 1 oil: 1 oiledstate: false
+field: 5 fieldtype: Racetrack trap: oil 10
+time: 99
+robotid: 0 fieldid: 2 v: 2 glue: 0 oil: 1 oiledstate: false
+field: 0 fieldtype: Racetrack trap: glue 10
+field: 5 fieldtype: Racetrack trap: oil 9
+time: 98
+robotid: 0 fieldid: 4 v: 2 glue: 0 oil: 1 oiledstate: false
+field: 0 fieldtype: Racetrack trap: glue 10
+field: 5 fieldtype: Racetrack trap: oil 8

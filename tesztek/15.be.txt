@@ -1,0 +1,8 @@
+newgame
+loadlevel teszt10.txt
+listrobots
+listtraps
+step
+listtraps
+step
+listtraps

@@ -1,0 +1,30 @@
+loadlevel teszt4.txt SUCCEED 
+robotid: 0 fieldid: 4 v: 2 glue: 1 oil: 1 oiledstate: false
+field: 0 fieldtype: Racetrack trap: none
+field: 1 fieldtype: Racetrack trap: none
+field: 2 fieldtype: Racetrack trap: none
+field: 3 fieldtype: Racetrack trap: none
+field: 4 fieldtype: Racetrack trap: none
+field: 5 fieldtype: Racetrack trap: oil
+littlerobotid: 0 field: 1
+field: 5 fieldtype: Racetrack trap: oil 10
+time: 99
+robotid: 0 fieldid: 2 v: 2 glue: 1 oil: 1 oiledstate: false
+field: 0 fieldtype: Racetrack trap: none
+field: 1 fieldtype: Racetrack trap: none
+field: 2 fieldtype: Racetrack trap: oil
+field: 3 fieldtype: Racetrack trap: none
+field: 4 fieldtype: Racetrack trap: none
+field: 5 fieldtype: Racetrack trap: oil
+field: 2 fieldtype: Racetrack trap: oil 10
+field: 5 fieldtype: Racetrack trap: oil 9
+time: 98
+robotid: 0 fieldid: 0 v: 2 glue: 1 oil: 1 oiledstate: false
+field: 0 fieldtype: Racetrack trap: none
+field: 1 fieldtype: Racetrack trap: none
+field: 2 fieldtype: Racetrack trap: oil
+field: 3 fieldtype: Racetrack trap: none
+field: 4 fieldtype: Racetrack trap: none
+field: 5 fieldtype: Racetrack trap: oil
+field: 2 fieldtype: Racetrack trap: oil 9
+field: 5 fieldtype: Racetrack trap: oil 8

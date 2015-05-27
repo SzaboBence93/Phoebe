@@ -1,0 +1,7 @@
+loadlevel teszt12_palya.txt SUCCEED 
+robotid: 0 fieldid: 0 v: 2 glue: 2 oil: 2 oiledstate: false
+robotid: 1 fieldid: 2 v: 2 glue: 2 oil: 2 oiledstate: false
+time: 0
+game over robot 0
+robotid: 0 fieldid: 2 v: 1 glue: 2 oil: 2 oiledstate: false
+robotid: 1 fieldid: 4 v: 2 glue: 2 oil: 2 oiledstate: false

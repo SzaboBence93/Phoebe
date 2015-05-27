@@ -1,0 +1,17 @@
+newgame
+loadlevel teszt4.txt
+listrobots
+listfields
+listlittlerobots
+listtraps
+changedirection 0 3
+step
+listrobots
+listfields
+listlittlerobots
+listtraps
+step
+listrobots
+listfields
+listlittlerobots
+listtraps

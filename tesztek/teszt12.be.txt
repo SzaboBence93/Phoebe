@@ -1,0 +1,5 @@
+newgame
+loadlevel teszt12_palya.txt
+listrobots
+step
+listrobots

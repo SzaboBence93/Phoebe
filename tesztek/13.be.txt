@@ -1,0 +1,13 @@
+newgame
+loadlevel teszt7.txt
+listrobots
+listtraps
+putglue 0
+changedirection 0 0
+step
+listrobots
+listtraps
+putglue 0
+step
+listrobots
+listtraps

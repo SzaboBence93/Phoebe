@@ -1,0 +1,22 @@
+loadlevel teszt6.txt SUCCEED 
+field: 0 fieldtype: Racetrack trap: none
+field: 1 fieldtype: Racetrack trap: none
+field: 2 fieldtype: Racetrack trap: none
+field: 3 fieldtype: Racetrack trap: glue
+littlerobotid: 0 field: 0
+field: 3 fieldtype: Racetrack trap: glue 10
+time: 99
+littlerobotid: 0 field: 1
+field: 3 fieldtype: Racetrack trap: glue 10
+time: 98
+littlerobotid: 0 field: 2
+field: 3 fieldtype: Racetrack trap: glue 10
+time: 97
+littlerobotid: 0 field: 3
+field: 3 fieldtype: Racetrack trap: glue 10
+time: 96
+field: 0 fieldtype: Racetrack trap: none
+field: 1 fieldtype: Racetrack trap: none
+field: 2 fieldtype: Racetrack trap: none
+field: 3 fieldtype: Racetrack trap: none
+littlerobotid: 0 field: 3

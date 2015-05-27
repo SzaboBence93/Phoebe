@@ -1,0 +1,10 @@
+newgame
+loadlevel teszt7_palya.txt
+listrobots
+listfields
+listtraps
+changedirection 0 0
+step
+listrobots
+step
+listrobots

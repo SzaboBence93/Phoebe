@@ -1,0 +1,20 @@
+loadlevel teszt123.txt SUCCEED 
+robotid: 0 fieldid: 0 v: 2 glue: 10 oil: 10 oiledstate: false
+field: 0 fieldtype: Racetrack trap: none
+field: 1 fieldtype: Racetrack trap: oil
+field: 2 fieldtype: NotRacetrack trap: none
+field: 3 fieldtype: NotRacetrack trap: none
+field: 4 fieldtype: NotRacetrack trap: none
+field: 5 fieldtype: Racetrack trap: glue
+field: 1 fieldtype: Racetrack trap: oil 9
+field: 5 fieldtype: Racetrack trap: glue 5
+time: 99
+robotid: 0 fieldid: 5 v: 1 glue: 10 oil: 10 oiledstate: false
+field: 0 fieldtype: Racetrack trap: none
+field: 1 fieldtype: Racetrack trap: oil
+field: 2 fieldtype: NotRacetrack trap: none
+field: 3 fieldtype: NotRacetrack trap: none
+field: 4 fieldtype: NotRacetrack trap: none
+field: 5 fieldtype: Racetrack trap: glue
+field: 1 fieldtype: Racetrack trap: oil 8
+field: 5 fieldtype: Racetrack trap: glue 4

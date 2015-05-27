@@ -1,0 +1,20 @@
+newgame
+loadlevel teszt6.txt
+listrobots
+listfields
+listlittlerobots
+listtraps
+step
+listlittlerobots
+listtraps
+step
+listlittlerobots
+listtraps
+step
+listlittlerobots
+listtraps
+step
+listrobots
+listfields
+listlittlerobots
+listtraps

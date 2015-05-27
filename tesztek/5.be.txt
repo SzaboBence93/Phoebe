@@ -1,0 +1,21 @@
+newgame
+stepon
+loadlevel teszt5.txt
+listrobots
+listfields
+listlittlerobots
+listtraps
+step
+listlittlerobots
+listtraps
+step
+listlittlerobots
+listtraps
+step
+listlittlerobots
+listtraps
+step
+listrobots
+listfields
+listlittlerobots
+listtraps

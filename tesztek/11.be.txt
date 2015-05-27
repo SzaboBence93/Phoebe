@@ -1,0 +1,9 @@
+newgame
+loadlevel teszt911.txt
+listrobots
+listfields
+changedirection 0 0
+step
+listrobots
+step
+listrobots
